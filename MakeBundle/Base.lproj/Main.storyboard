@@ -702,7 +702,9 @@
                                             <size key="minSize" width="458" height="223"/>
                                             <size key="maxSize" width="463" height="10000000"/>
                                             <attributedString key="textStorage">
-                                                <fragment content="将TTFs 拖拽进来即可导出～">
+                                                <fragment>
+                                                    <string key="content">将TTFs 拖拽进来即可导出～
+</string>
                                                     <attributes>
                                                         <font key="NSFont" size="12" name="PingFangSC-Regular"/>
                                                         <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
